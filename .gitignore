@@ -118,3 +118,5 @@ pids
 raw/
 processed/
 .venv/
+
+vector_store/
